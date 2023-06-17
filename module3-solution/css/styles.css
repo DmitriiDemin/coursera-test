@@ -1,0 +1,57 @@
+*{box-sizing: 	border-box;	}
+
+#header-nav{
+	border: 	2px solid black	;
+
+	background-color: grey;
+}
+.navbar-header .navbar-brand{
+	position: 	absolute;	;	
+	left: 	10px;
+	
+	}
+.navbar {
+	margin-bottom: 	0px;
+}
+.navbar-brand h1 { 
+  
+  color: black;
+  
+  
+  font-weight: bold;
+  
+  margin-top: 0;
+  
+  
+  line-height: .75;
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 	0px;
+  background-color: 	white;
+
+
+}
+#nav-list a {
+  color: black	;
+  text-align: center;
+  border: 	1px solid black	;
+}
+#nav-list a:hover {
+  background: grey;
+}
+
+#main-content{
+width: 	100%;
+
+}
+
+.row{
+	background-color: 	grey;
+	margin-left: 	10px;
+	margin-right: 10px;
+}
+@media(min-width: 992px){
+	
+	}
